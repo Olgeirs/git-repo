@@ -1,8 +1,8 @@
-print("Hi")
-print("Hi2")
-print("Hi3")
+print("Hi");
+print("Hi2");
+print("Hi3");
 
-print("Hi4")
+print("Hi4");
 
-print("Hi5")
-print("Hi6")
+print("Hi5");
+print("Hi6");
